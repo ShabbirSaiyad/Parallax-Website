@@ -37,8 +37,6 @@
 h1{
     position: absolute;
     top:5rem;
-    /* left:50%; */
-    /* transform:translateX(-50%); */
     letter-spacing: 4px;
     font-size:10rem;
     color:white;
